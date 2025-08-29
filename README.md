@@ -1,18 +1,7 @@
-# 🔋 Mạch Bảo Vệ Pin Lithium 3S sử dụng IC S-8254A
-
-Đây là một dự án thiết kế mạch bảo vệ pin lithium 3 cell (3S) sử dụng IC **S-8254A** của hãng ABLIC. Mạch có chức năng bảo vệ pin khỏi các tình trạng **quá sạc (overcharge)**, **quá xả (overdischarge)**, **quá dòng (overcurrent)** và **ngắn mạch (short circuit)** – những lỗi có thể làm hỏng pin hoặc gây nguy hiểm trong quá trình sử dụng.
+# 🔋 Mạch Sạc Pin sử dụng IC S-8254A
 
 Mạch được thiết kế bằng phần mềm **KiCad**, bao gồm đầy đủ sơ đồ nguyên lý, layout PCB.
 ---
-
-## 📦 Tính Năng Nổi Bật
-
-- ✅ Bảo vệ pin Li-ion / Li-Po cấu hình **3S**
-- ✅ Hỗ trợ dòng lớn nhờ sử dụng **MOSFET ngoài**
-- ✅ Tự động ngắt sạc và xả khi có lỗi
-- ✅ Bảo vệ quá áp và thấp áp từng cell
-- ✅ Thiết kế nhỏ gọn, dễ sản xuất
-- ✅ Dễ tùy biến theo yêu cầu sử dụng
 
 ---
 
