@@ -24,16 +24,18 @@ Mạch được thiết kế bằng phần mềm **KiCad**, bao gồm đầy đ�
 ## 🧩 Sơ Đồ Mạch & Layout PCB
 
 - ✅ Sơ đồ nguyên lý đầy đủ (file `.kicad_sch`)
-  <img width="1371" height="851" alt="image" src="https://github.com/user-attachments/assets/19abf5dd-c397-4326-b25b-c6ef6875331a" />
+<img width="1334" height="817" alt="image" src="https://github.com/user-attachments/assets/ce86611c-27be-406f-a3d7-c36cd3374fad" />
+
 
 - ✅ Bo mạch 2 lớp (file `.kicad_pcb`)
+  
 - Top:
   
-  <img width="1554" height="744" alt="image" src="https://github.com/user-attachments/assets/05077f94-9cbb-4a79-b2f1-ef128b5182d5" />
+<img width="1334" height="622" alt="image" src="https://github.com/user-attachments/assets/3b4105f3-de26-4d24-a7c9-a1e4cfbd8a9d" />
 
 - Bottom:
   
-  <img width="996" height="463" alt="image" src="https://github.com/user-attachments/assets/385f2d32-761a-435f-bc9e-9568de604330" />
+<img width="1328" height="620" alt="image" src="https://github.com/user-attachments/assets/ed4436ab-9840-4b36-ba64-9b75b3bb097b" />
 
 - 3D model:
   
