@@ -39,7 +39,7 @@ Mạch được thiết kế bằng phần mềm **KiCad**, bao gồm đầy đ�
 
 - 3D model:
   
-  <img width="904" height="432" alt="image" src="https://github.com/user-attachments/assets/534e7055-f99a-4bc1-93fc-1578414f73fc" />
+<img width="1349" height="627" alt="image" src="https://github.com/user-attachments/assets/782fbc37-371a-46e2-b214-8ed15703fc21" />
 
 
 
